@@ -1,4 +1,4 @@
-import PostMessage from "../modules/postMessage.js"
+import PostMessage from "../models/postMessage.js"
 
 const getPosts = async (req, res) => {
     
